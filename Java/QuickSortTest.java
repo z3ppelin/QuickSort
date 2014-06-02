@@ -5,7 +5,7 @@
  * @since       2013.07.05
  * @version     1.0
  * @link        GitHub  https://github.com/z3ppelin/QuickSort
- * @licence     The MIT License (http://opensource.org/licenses/MIT); see LICENCE.txt
+ * @licence     The MIT License (http://opensource.org/licenses/MIT); see LICENSE.txt
  */
 import static org.junit.Assert.*;
 import org.junit.*;
